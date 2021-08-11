@@ -1,4 +1,4 @@
-# LandIdentificiationWithRandomForest
+# Land Identificiation With RandomForest
 Identification garlic field in Sembalun Indonesia from satellite image Europe Space Agency, using Python, RStudio, SNAP, Qgis
 
 1. download Sembalun map Citra Sentinel-1A from ESA in https://scihub.copernicus.eu/ from 4 diffrent date 13 Juli 2019, 25 Juli 2019, 10 November 2019, 22 November 2019
